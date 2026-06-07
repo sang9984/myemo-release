@@ -26,4 +26,4 @@ Agreement.
 
 ## Support
 
-Questions, bug reports, or feedback: **yos21000@gmail.com**
+Questions, bug reports, or feedback: **yws9984@gmail.com**
